@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Amazing website
+title: Siyu Chen 
 
 # Your name to show in the footer
-author: Some Person
+author: Siyu Chen
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Activities:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Google scholar: "https://scholar.google.com/citations?user=agB7nqAAAAAJ&hl=en"
 
 ################
 # --- Logo --- #
