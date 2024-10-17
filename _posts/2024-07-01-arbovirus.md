@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding COVID-19 testing behaviour in England through a sociodemographic lens
+title: lens
 subtitle: Health equality; the Lancet Digital Health in press
 cover-img: /assets/img/Fig1.jpg
 thumbnail-img: /assets/img/Fig1.png
