@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Understanding COVID-19 testing behaviour in England through a sociodemographic lens
+subtitle: Health equality; Accpeted by Lancet Digital Health
+gh-repo: https://www.medrxiv.org/content/10.1101/2023.10.26.23297608v1
 comments: true
 mathjax: true
-author: Bill Smith
+author: Siyu Chen
 ---
 
 {: .box-success}
