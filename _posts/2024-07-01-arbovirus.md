@@ -1,7 +1,7 @@
 ---
 layout: post
 title: lens
-subtitle: Health equality; the Lancet Digital Health in press
+subtitle: Arbovirus preparedness; the Lancet Infectious Disease in press
 cover-img: /assets/img/Fig3.jpg
 thumbnail-img: /assets/img/Fig3.png
 share-img: /assets/img/Fig3.jpg
