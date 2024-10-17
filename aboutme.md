@@ -17,6 +17,6 @@ During my DPhil at Oxford University, I studied population immunity and transmis
   - Senior Research Assistant, High Meadows Environmental Institute, Princeton University, Princeton, NJ, USA, 2023.09 - 2024.11
 
 ### Education
- - DPhil in Clinical Medicine, University of Oxford, UK 2020-2023
- - MSc in Statistics and Data Science, Nankai University, China, 2017-2020
+ - DPhil in Clinical Medicine, Big Data Institute, Nuffield Department of Medicine, University of Oxford, UK 2020-2023
+ - MSc in Statistics and Data Science, School of Statistics and Data Science, Nankai University, China, 2017-2020
 
