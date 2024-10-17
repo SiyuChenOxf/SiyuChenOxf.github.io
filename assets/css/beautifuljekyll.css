@@ -541,9 +541,11 @@ footer .footer-custom-content {
 }
 .post-preview .post-image {
   float: center;
-  margin-left: 0.625rem;
+  margin-left: 0rem;
   height: 50rem;
   width: 50rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
 .post-preview .post-image {
   filter: grayscale(0%);
