@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Novel tools for arbovirus preparedness: the use of multi-antigen serology for detection of arbovirus infections in southeast Europe, a prospective observational study
-subtitle: Arbovirus preparedness; the Lancet Infectious Disease in press
-cover-img: /assets/img/Fig3.jpg
-thumbnail-img: /assets/img/Fig3.png
-share-img: /assets/img/Fig3.jpg
+title: Understanding COVID-19 testing behaviour in England through a sociodemographic lens
+subtitle: Health equality; the Lancet Digital Health in press
+cover-img: /assets/img/Fig1.jpg
+thumbnail-img: /assets/img/Fig1.png
+share-img: /assets/img/Fig1.jpg
 author: Siyu Chen
 ---
-
 Arboviruses are increasingly impacting Europe, in part due to the effects of climate change. This emphasizes the need for improving preparedness for emerging arboviral infections that often co-circulate and may have overlapping clinical syndromes. Therefore, we aimed to strengthen surveillance networks for four clinically relevant arboviruses in southeast Europe.
 
 ![Crepe](https://beautifuljekyll.com/assets/img/Fig4.jpg)
