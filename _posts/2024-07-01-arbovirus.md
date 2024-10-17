@@ -2,9 +2,9 @@
 layout: post
 title: lens
 subtitle: Health equality; the Lancet Digital Health in press
-cover-img: /assets/img/Fig1.jpg
-thumbnail-img: /assets/img/Fig1.png
-share-img: /assets/img/Fig1.jpg
+cover-img: /assets/img/Fig3.jpg
+thumbnail-img: /assets/img/Fig3.png
+share-img: /assets/img/Fig3.jpg
 author: Siyu Chen
 ---
 Arboviruses are increasingly impacting Europe, in part due to the effects of climate change. This emphasizes the need for improving preparedness for emerging arboviral infections that often co-circulate and may have overlapping clinical syndromes. Therefore, we aimed to strengthen surveillance networks for four clinically relevant arboviruses in southeast Europe.
