@@ -2,9 +2,9 @@
 layout: post
 title: Novel tools for arbovirus preparedness the use of multi-antigen serology for detection of arbovirus infections in southeast Europe, a prospective observational study
 subtitle: Arbovirus preparedness; the Lancet Infectious Disease in press
-cover-img: /assets/img/Fig3.jpg
+cover-img: /assets/img/Fig3.png
 thumbnail-img: /assets/img/Fig3.png
-share-img: /assets/img/Fig3.jpg
+share-img: /assets/img/Fig3.png
 author: Siyu Chen
 ---
 Arboviruses are increasingly impacting Europe, in part due to the effects of climate change. This emphasizes the need for improving preparedness for emerging arboviral infections that often co-circulate and may have overlapping clinical syndromes. Therefore, we aimed to strengthen surveillance networks for four clinically relevant arboviruses in southeast Europe.
