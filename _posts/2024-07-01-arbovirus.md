@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lens
+title: Novel tools for arbovirus preparedness the use of multi-antigen serology for detection of arbovirus infections in southeast Europe, a prospective observational study
 subtitle: Arbovirus preparedness; the Lancet Infectious Disease in press
 cover-img: /assets/img/Fig3.jpg
 thumbnail-img: /assets/img/Fig3.png
