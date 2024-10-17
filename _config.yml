@@ -99,6 +99,7 @@ share-links-active:
   github: true
   google scholar: true
   ORCID: true
+  lab: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
