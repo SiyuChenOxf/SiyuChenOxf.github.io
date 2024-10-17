@@ -7,4 +7,4 @@ thumbnail-img: /assets/img/Fig6.png
 share-img: /assets/img/Fig6.jpg
 author: Siyu Chen
 ---
-![Crepe](https://beautifuljekyll.com/assets/img/Fig4.jpg)
+![Fig4](https://beautifuljekyll.com/assets/img/Fig4.jpg)
