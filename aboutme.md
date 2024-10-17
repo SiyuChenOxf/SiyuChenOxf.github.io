@@ -12,11 +12,11 @@ During my DPhil at Oxford University, I studied population immunity and transmis
 - A participatory modelling approach
   
 ### Employment
-  Postdoctoral Research Associate, Department of Public and Ecosystem Health, Corvell University, Ithaca, NY, USA, 2024.09 - present
-  Postdoctoral Research Associate, High Meadows Environmental Institute, Princeton University, Princeton, NJ, USA, 2023.11 - 2024.09
-  Senior Research Assistant, High Meadows Environmental Institute, Princeton University, Princeton, NJ, USA, 2023.09 - 2024.11
+  - Postdoctoral Research Associate, Department of Public and Ecosystem Health, Corvell University, Ithaca, NY, USA, 2024.09 - present
+  - Postdoctoral Research Associate, High Meadows Environmental Institute, Princeton University, Princeton, NJ, USA, 2023.11 - 2024.09
+  - Senior Research Assistant, High Meadows Environmental Institute, Princeton University, Princeton, NJ, USA, 2023.09 - 2024.11
 
 ### Education
- DPhil in Clinical Medicine, University of Oxford, UK 2020-2023
- MSc in Statistics and Data Science, Nankai University, China, 2017-2020
+ - DPhil in Clinical Medicine, University of Oxford, UK 2020-2023
+ - MSc in Statistics and Data Science, Nankai University, China, 2017-2020
 
