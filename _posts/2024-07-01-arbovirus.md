@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Novel tools for arbovirus preparedness: the use of multi-antigen serology for detection of arbovirus infections in southeast Europe, a prospective observational study
-subtitle: arbovirus preparedness; the Lancet Infectious Disease in press
-cover-img: /assets/img/Fig3.jpg
-thumbnail-img: /assets/img/Fig3.png
-share-img: /assets/img/Fig3.jpg
+title: Understanding COVID-19 testing behaviour in England through a sociodemographic lens
+subtitle: Health equality; the Lancet Digital Health in press
+cover-img: /assets/img/Fig1.jpg
+thumbnail-img: /assets/img/Fig1.png
+share-img: /assets/img/Fig1.jpg
 author: Siyu Chen
 ---
 
