@@ -21,9 +21,7 @@ author: Siyu Chen
 
 navbar-links:
   About Me: "aboutme"
-  Activities:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Lab: "https://www.anabento.io"
   Google scholar: "https://scholar.google.com/citations?user=agB7nqAAAAAJ&hl=en"
 
 ################
