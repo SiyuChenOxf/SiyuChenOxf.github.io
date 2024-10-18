@@ -8,7 +8,7 @@ subtitle: coffee or ice cream?
 
 I am an infectious disease ecologist and modeller, working at the interface of theoretical models and empirical data, with a focus on global health and policymaking. 
 
-During my DPhil at Oxford University, I studied population immunity and transmission dynamics of SARS-CoV-2 in the UK, US, low-and middle-income countries and in specific settings, including healthcare, care homes and school. 
+During my DPhil at Oxford University, I studied population immunity and transmission dynamics of SARS-CoV-2 and its applicaiton in the UK, US, low-and middle-income countries and in specific settings, including healthcare, care homes and school. 
 
 My research encompassed a broad spectrum of disease ecology, including outbreak preparedness, health economics, health equality and population behavioral dynamics. 
 
