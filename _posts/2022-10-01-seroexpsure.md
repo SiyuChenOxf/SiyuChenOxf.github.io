@@ -2,14 +2,14 @@
 layout: post
 title: Novel tools for arbovirus preparedness the use of multi-antigen serology for detection of arbovirus infections in southeast Europe, a prospective observational study
 subtitle: Arbovirus preparedness; the Lancet Infectious Disease in press
-cover-img: /assets/img/oxf.jpeg
-thumbnail-img: /assets/img/Fig3.png
-share-img: /assets/img/Fig3.png
+cover-img: /assets/img/prin.jpg
+thumbnail-img: /assets/img/figure22.png
+share-img: /assets/img/figure22.png
 author: Siyu Chen
 ---
 Arboviruses are increasingly impacting Europe, in part due to the effects of climate change. This emphasizes the need for improving preparedness for emerging arboviral infections that often co-circulate and may have overlapping clinical syndromes. Therefore, we aimed to strengthen surveillance networks for four clinically relevant arboviruses in southeast Europe.
 
-![Fig4](https://SiyuChenOxf.github.io/assets/img/Fig4.png)
+![figure22](https://SiyuChenOxf.github.io/assets/img/figure22.png)
 
 This study reports secondary objectives of a prospective observational study in adults hospitalized with an arbovirus-compatible disease syndrome in 21 hospitals in seven countries in southeast Europe over four arbovirus seasons (1 May 2016 - 31 October 2019). The main objectives of the study - describing the prevalence, clinical management, and outcomes of four arboviruses endemic to southeast Europe - are reported elsewhere. In this study, given the challenges in arbovirus diagnostics, we developed a diagnostic interpretation algorithm taking into account the (serological) outcomes and sample timing to study arbovirus prevalence in southeast Europe. We used enzyme-linked immunosorbent assay (ELISA) and custom-printed protein microarrays to simultaneously detect serum antibodies against Crimean-Congo haemorrhagic fever virus (CCHFV), tick-borne encephalitis virus (TBEV), Toscana virus (TOSV) and West Nile virus (WNV), followed by confirmation assays (virus neutralization test (VNT) or Indirect immunofluorescence test (IIFT)). Patients were sampled on day 0, 7, 28 and 60 post-hospital admission. Descriptive analysis was performed for virus reactive cases by geography and year, and possible associated factors (age, gender and insect bites) were analyzed by statistical analysis (t-test, chi-square test, Fisher’s exact test).
 
