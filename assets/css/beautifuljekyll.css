@@ -542,8 +542,8 @@ footer .footer-custom-content {
 .post-preview .post-image {
   float: center;
   margin-left: 0rem;
-  height: 50rem;
-  width: 50rem;
+  height: 35rem;
+  width: 35rem;
   margin-top: 0rem;
   margin-bottom: 0rem;
 }
@@ -563,8 +563,8 @@ footer .footer-custom-content {
 }
 @media (max-width: 767px) {
   .post-preview .post-image {
-    height: 9rem;
-    width: 9rem;
+    height: 6rem;
+    width: 6rem;
   }
   .post-preview .post-image-short {
     margin-top: 0;
