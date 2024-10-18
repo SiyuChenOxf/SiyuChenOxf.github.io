@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case study How serological model was developed and applied to inform COVID-19 responses in Afghanistan
+title: Serological model to inform COVID-19 responses in Afghanistan
 subtitle: Modelling to inform the policy making; the Lancet in press
 cover-img: /assets/img/oxf2.jpeg
 thumbnail-img: /assets/img/fig4.png
