@@ -4,6 +4,8 @@ title: About me
 subtitle: coffee or ice cream?
 ---
 
+![sc](https://SiyuChenOxf.github.io/assets/img/sc.jpg)
+
 I am an infectious disease ecologist and modeller, working at the interface of theoretical models and empirical data, with a focus on global health and policymaking. 
 
 During my DPhil at Oxford University, I studied population immunity and transmission dynamics of SARS-CoV-2 in the UK, US, low-and middle-income countries and in specific settings, including healthcare, care homes and school. 
