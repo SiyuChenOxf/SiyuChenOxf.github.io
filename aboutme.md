@@ -16,7 +16,7 @@ My work had a strong translational component; I worked with international public
 - A participatory modelling approach
   
 ### Employment
-  - Postdoctoral Research Associate, Department of Public and Ecosystem Health, Corvell University, Ithaca, NY, USA, 2024.09 - present
+  - Postdoctoral Research Associate, Department of Public and Ecosystem Health, Cornell University, Ithaca, NY, USA, 2024.09 - present
   - Postdoctoral Research Associate, High Meadows Environmental Institute, Princeton University, Princeton, NJ, USA, 2023.11 - 2024.09
   - Senior Research Assistant, High Meadows Environmental Institute, Princeton University, Princeton, NJ, USA, 2023.09 - 2024.11
 
