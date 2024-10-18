@@ -554,7 +554,7 @@ footer .footer-custom-content {
   filter: grayscale(0%);
 }
 .post-preview .post-image img {
-  max-height: 130%;
+  max-height: 120%;
   max-width: 130%;
 }
 .post-preview .post-image-short {
