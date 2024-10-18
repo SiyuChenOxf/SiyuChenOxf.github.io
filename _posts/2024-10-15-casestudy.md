@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serological model to inform COVID-19 responses in Afghanistan
-subtitle: Modelling to inform the policy making; the Lancet in press
+subtitle: Modelling for Global Health; the Lancet in press
 cover-img: /assets/img/oxf2.jpeg
 thumbnail-img: /assets/img/fig4.png
 share-img: /assets/img/fig4.png
