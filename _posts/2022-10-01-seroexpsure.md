@@ -2,7 +2,7 @@
 layout: post
 title: Levels of SARS-CoV-2 population exposure are considerably higher than suggested by seroprevalence surveys
 subtitle: COVID-19 serology vs. exposure; PLOS Computational Biology
-cover-img: /assets/img/oxf.png
+cover-img: /assets/img/prin.jpg
 thumbnail-img: /assets/img/figure22.png
 share-img: /assets/img/figure22.png
 author: Siyu Chen
