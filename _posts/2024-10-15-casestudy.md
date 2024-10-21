@@ -2,7 +2,7 @@
 layout: post
 title: Serological model to inform COVID-19 responses in Afghanistan
 subtitle: Modelling for Global Health; the Lancet in press
-cover-img: /assets/img/oxf2.jpeg
+cover-img: /assets/img/fall.jpg
 thumbnail-img: /assets/img/fig4.png
 share-img: /assets/img/fig4.png
 author: Siyu Chen
