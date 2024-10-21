@@ -13,4 +13,4 @@ Accurate knowledge of prior population exposure has critical ramifications for p
 
 It is particularly challenging to determine the true proportion of the population that has been previously exposed to SARS-CoV-2. Serological surveys that measure how many people have antibodies against the virus are a promising tool but results from such studies need to be interpreted carefully. Several studies following individuals over time after they’ve had a known infection were able to determine that antibodies are only measurable up to 6–9 months, on average. The immediate implication is that serological studies will inevitably under-estimate the number of people exposed, since some will have a lower antibody count when the study is conducted and test negative. We propose a method that takes this into account and informs the true level of exposure from triangulating serological data with mortality and test positivity data.
 
-
+More details see our publication on PLOS Computational Biology here https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009436
