@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/Fig3.png
 share-img: /assets/img/Fig3.png
 author: Siyu Chen
 ---
->Louella M.R. Kasbergen, E. De Bruin, Felicity Chandler, Louise Sigfrid, Xin Hui Chan, L. Hookham, Jia Wei, Siyu Chen, Corine H. GeurtsvanKessel et al. *PREPARE MERMAIDS ARBO investigator group.
+>Authors: Louella M.R. Kasbergen, E. De Bruin, Felicity Chandler, Louise Sigfrid, Xin Hui Chan, L. Hookham, Jia Wei, Siyu Chen, Corine H. GeurtsvanKessel et al. *PREPARE MERMAIDS ARBO investigator group.
 
 Arboviruses are increasingly impacting Europe, in part due to the effects of climate change. This emphasizes the need for improving preparedness for emerging arboviral infections that often co-circulate and may have overlapping clinical syndromes. Therefore, we aimed to strengthen surveillance networks for four clinically relevant arboviruses in southeast Europe.
 
