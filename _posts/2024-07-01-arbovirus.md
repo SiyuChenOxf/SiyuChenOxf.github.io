@@ -7,8 +7,6 @@ thumbnail-img: /assets/img/Fig3.png
 share-img: /assets/img/Fig3.png
 author: Siyu Chen
 ---
->Authors: Louella M.R. Kasbergen, E. De Bruin, Felicity Chandler, Louise Sigfrid, Xin Hui Chan, L. Hookham, Jia Wei, Siyu Chen, Corine H. GeurtsvanKessel et al. *PREPARE MERMAIDS ARBO investigator group.
-
 Arboviruses are increasingly impacting Europe, in part due to the effects of climate change. This emphasizes the need for improving preparedness for emerging arboviral infections that often co-circulate and may have overlapping clinical syndromes. Therefore, we aimed to strengthen surveillance networks for four clinically relevant arboviruses in southeast Europe.
 
 ![Fig4](https://SiyuChenOxf.github.io/assets/img/Fig4.png)
@@ -18,3 +16,4 @@ This study reports secondary objectives of a prospective observational study in 
 Of 2896 individuals screened, 913 were eligible for inclusion, of whom 863 had samples sent to the study reference laboratories for molecular and serological analyses. Serum sampling was often incomplete (samples missing from one or more timepoints or no data on time since symptom onset) (602/863 patients, 69.8%) with heterogeneous timing after symptom onset up to 40 days (median delayed collection of 5-6 days), impacting ability to diagnose arbovirus infection by serology. Using an interpretation table incorporating timing and completeness of sampling, 1 (0.1 %), 10 (1.2%), 40 (4.6%), and 52 (6.0%) out of 863 patients tested positive for confirmed recent infection, for CCHFV, TBEV, TOSV and WNV respectively. Most of TOSV acute confirmed cases were found in Albania (25/40, 62.5%), whereas WNV was primarily identified in Romania (36/52, 69.2%). Albania also had the highest overall TOSV seropositivity (168/282, 59.6%), mainly explained by confirmed (previously) exposed individuals (104/168, 61.9%). Older age was significantly associated with WNV and TOSV (sero)positivity (p <0.0001), as well as higher odds of TOSV reactivity in males (OR: 1.56; CI: 1.15-2.11; p-value: 0.0055), WNV reactivity with mosquito bites (OR: 2.47; CI: 1.54-3.97; p-value: 0.00023) and TBEV reactivity with tick bites (OR: 2.21; CI: 1.19-4.11; p-value: 0.018).
 
 More details see our preprint here [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4869102); the accepted version on Lancet Infectious Disease is to be appear.
+>Authors: Louella M.R. Kasbergen, E. De Bruin, Felicity Chandler, Louise Sigfrid, Xin Hui Chan, L. Hookham, Jia Wei, Siyu Chen, Corine H. GeurtsvanKessel et al. *PREPARE MERMAIDS ARBO investigator group.
