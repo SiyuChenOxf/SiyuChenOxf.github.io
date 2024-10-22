@@ -2,7 +2,7 @@
 layout: post
 title: Estimating the Effectiveness of Shielding during Pregnancy against SARS-CoV-2 in New York City during the First Year of the COVID-19 Pandemic
 subtitle: Shielding; pregnant women; SARS-CoV-2 serology & virology; Viruses
-cover-img: /assets/img/prin.jpg
+cover-img: /assets/img/color.jpeg
 thumbnail-img: /assets/img/pig2.png
 share-img: /assets/img/pig2.png
 author: Siyu Chen
