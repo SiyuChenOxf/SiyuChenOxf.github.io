@@ -18,7 +18,7 @@ My work had a strong translational component; I worked with international public
 - A participatory modelling approach
 - International collaboration networks
 
-![map](https://SiyuChenOxf.github.io/assets/img/map.png)
+![map1](https://SiyuChenOxf.github.io/assets/img/map1.png)
 
   
 ### Employment
