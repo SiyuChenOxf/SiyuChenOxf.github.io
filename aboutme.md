@@ -16,6 +16,10 @@ My work had a strong translational component; I worked with international public
 
 - A multi-scale modelling method
 - A participatory modelling approach
+- International collaboration networks
+
+![map](https://SiyuChenOxf.github.io/assets/img/map.png)
+
   
 ### Employment
   - Postdoctoral Research Associate, Department of Public and Ecosystem Health, Cornell University, Ithaca, NY, USA, 2024.09 - present
