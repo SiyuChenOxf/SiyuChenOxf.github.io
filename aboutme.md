@@ -14,9 +14,9 @@ My research encompassed a broad spectrum of disease ecology, including outbreak 
 
 My work had a strong translational component; I worked with international public health consortia, organisations and ministry of health. I led a COVID-19 testing evaluation program in England partnering with the UK Health Security Agency and animated a multi-center European study of arboviruses.   
 
-- A multi-scale modelling method
-- A participatory modelling approach
-- International collaboration networks
+- A multi-scale modelling method: combining within- and between- host viral and serologic dynamics to build resilient surveillance  
+- A participatory modelling approach: bringing sophisticated modelling techniques with local context and global version
+- International collaboration networks: One World, One Dream & One Health
 
 ![map1](https://SiyuChenOxf.github.io/assets/img/map1.png)
 
