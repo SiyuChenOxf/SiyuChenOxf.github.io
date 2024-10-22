@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/seroexposure.png
 share-img: /assets/img/seroexposure.png
 author: Siyu Chen
 ---
-> Siyu Chen, Jennifer A. Flegg, Lisa J. White, Ricardo Aguas 
+> Authors: Siyu Chen, Jennifer A. Flegg, Lisa J. White, Ricardo Aguas 
 
 Accurate knowledge of prior population exposure has critical ramifications for preparedness plans for future SARS-CoV-2 epidemic waves and vaccine prioritization strategies. Serological studies can be used to estimate levels of past exposure and thus position populations in their epidemic timeline. To circumvent biases introduced by the decay in antibody titers over time, methods for estimating population exposure should account for seroreversion, to reflect that changes in seroprevalence measures over time are the net effect of increases due to recent transmission and decreases due to antibody waning. Here, we present a new method that combines multiple datasets (serology, mortality, and virus positivity ratios) to estimate seroreversion time and infection fatality ratios (IFR) and simultaneously infer population exposure levels. The results indicate that the average time to seroreversion is around six months, IFR is 0.54% to 1.3%, and true exposure may be more than double the current seroprevalence levels reported for several regions of England.
 
